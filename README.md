@@ -1,32 +1,41 @@
 # UpForceTech
 UpForche Tech Assignment django
 ## Register User
-![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/57ef5429-2c5f-41db-abfb-8aae172d8f02)
+![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/5dad93b5-b4dc-4a7e-b84d-6c06e3aa10d7)
+
 
 ## Get All Users
-![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/c983a1d2-6db7-4e13-9f6c-fa27f029e675)
+![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/ac498137-d4d4-4967-a570-9466d3f95084)
+
 
 ## Get User
-![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/06a9b97a-060b-4aa3-9382-0e12ea50845f)
+![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/65cebfe7-e4e8-45ea-a405-2d87e00e3439)
+
 
 ## Update User
-![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/f26a1ff8-d49f-43dc-b06a-105d70747c8a)
+![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/ebf4493b-07d3-4d37-aa6e-fd4376138da3)
+
 
 ## Login and generate JWT Tokens
-![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/05fd4b7c-dfa4-4693-9d29-d77b44371f40)
+![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/8b4a2808-f066-443d-90b6-4165105c060b)
+
 
 ## Create Post
-![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/6c3141c9-aef6-4edb-a78a-da4a82754be6)
+![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/bd1db94a-4efb-441b-addc-f55be21ba8aa)
+
 
 ## Update Post
-![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/603a6233-3458-46b9-a102-1e166a052bdc)
+![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/1f0e686f-ad83-40cc-a2d8-bf286cb65de1)
+
 
 ## Like a Post
-![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/8a358f51-ce93-4c8a-a6a2-87aaa366b526)
+![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/9d74bb3b-7852-4709-a9de-08e1740d5c8f)
 
 ## Get a post
-![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/3e5b860a-e6ed-4a77-816c-437527766330)
+![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/6cd6c907-48f8-47ea-90ab-57cc9821c3f3)
+
 
 ## get all post
-![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/efad6961-530b-4180-b604-608799a3f1fe)
+![image](https://github.com/dhruvLearner8/UpForceTech/assets/83899022/d590a858-c9c1-4cd2-90bd-9ed5221eacbd)
+
 
